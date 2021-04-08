@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maher Amara
+- 👋 Hi, I’m MaherDev
 - 👀 I’m interested in Computer Science
 - 📫 How to reach me : https://www.maherdev.epizy.com
   
