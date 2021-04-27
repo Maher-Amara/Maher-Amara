@@ -15,7 +15,7 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 
 👉 maheramara32@yahoo.fr
 
-<br><img src="https://wolfeborolibrary.org/wp-content/uploads/2020/12/spinning-globe-animated-gif-free-download-2.gif" width="20px"> https://www.maherdev.epizy.com
+<img src="https://wolfeborolibrary.org/wp-content/uploads/2020/12/spinning-globe-animated-gif-free-download-2.gif" width="20px"> https://www.maherdev.epizy.com
 
 ## 🙌 Find me at :
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maherdev/)](https://www.linkedin.com/in/maherdev/)
