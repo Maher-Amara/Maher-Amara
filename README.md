@@ -14,6 +14,7 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 - 📫 How to reach me: maheramara32@yahoo.fr
 - 🛸 I love exploring new tech.
 - 🌱 I’m currently learning Amazon Web Services.
+- [<img src="https://wolfeborolibrary.org/wp-content/uploads/2020/12/spinning-globe-animated-gif-free-download-2.gif" width="20px"> maherDEV](https://www.maherdev.epizy.com)
 <br/>
 
 ## Languages and Tools:
@@ -136,7 +137,3 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 ## 🙌 Find me at :
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maherdev/)](https://www.linkedin.com/in/maherdev/)
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl)](https://twitter.com/maheramara1)
-
-## [<img src="https://wolfeborolibrary.org/wp-content/uploads/2020/12/spinning-globe-animated-gif-free-download-2.gif" width="20px"> maherDEV](https://www.maherdev.epizy.com)
-
-
