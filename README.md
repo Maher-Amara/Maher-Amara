@@ -11,10 +11,11 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 
 - 🔭 I’m currently working on building an E-commerce platform.
 - 👀 I’m interested in Computer Science.
-- 📫 How to reach me: maheramara32@yahoo.fr
 - 🛸 I love exploring new tech.
 - 🌱 I’m currently learning Amazon Web Services.
-- [<img src="https://wolfeborolibrary.org/wp-content/uploads/2020/12/spinning-globe-animated-gif-free-download-2.gif" width="20px"> maherDEV](https://www.maherdev.epizy.com)
+- 📫 How to reach me: 
+  -   maheramara32@yahoo.fr
+  - [<img src="https://wolfeborolibrary.org/wp-content/uploads/2020/12/spinning-globe-animated-gif-free-download-2.gif" width="20px"> maherDEV](https://www.maherdev.epizy.com)
 <br/>
 
 ## Languages and Tools:
