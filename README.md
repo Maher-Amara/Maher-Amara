@@ -13,8 +13,9 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 - 👀 I’m interested in Computer Science.
 - 🛸 I love exploring new tech.
 - 🌱 I’m currently learning Amazon Web Services.
-- 📫 How to reach me: 
-  -   maheramara32@yahoo.fr
+
+## How to reach me: 
+  - 📫 maheramara32@yahoo.fr
   - [<img src="https://wolfeborolibrary.org/wp-content/uploads/2020/12/spinning-globe-animated-gif-free-download-2.gif" width="20px"> maherDEV](https://www.maherdev.epizy.com)
 <br/>
 
