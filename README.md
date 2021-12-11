@@ -1,6 +1,6 @@
 <h1>Hi There, I’m Maher <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">
-  <a href="https://www.maherdev.epizy.com" class="center" target="_blank"><img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="500"></a>
+  <a href="https://maherdev.com" class="center" target="_blank"><img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="500"></a>
 </p>
 
 
@@ -16,7 +16,7 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 
 ## How to reach me: 
   - 📫 maheramara32@yahoo.fr
-  - [<img src="https://wolfeborolibrary.org/wp-content/uploads/2020/12/spinning-globe-animated-gif-free-download-2.gif" width="20px"> maherDEV](https://www.maherdev.epizy.com)
+  - [<img src="https://wolfeborolibrary.org/wp-content/uploads/2020/12/spinning-globe-animated-gif-free-download-2.gif" width="20px"> maherDEV](https://maherdev.com)
 <br/>
 
 ## Languages and Tools:
