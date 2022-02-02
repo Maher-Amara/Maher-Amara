@@ -131,5 +131,8 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maher-amara&layout=compact&langs_count=10)
 
 ## 🙌 Find me at :
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maher-amara/)](https://www.linkedin.com/in/maher-amara/)
-[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl)](https://twitter.com/maheramara1)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/maher.amara32)](https://www.facebook.com/maher.amara32)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/maher.amara1/)](https://www.instagram.com/maher.amara1/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maher-amara/)](https://www.linkedin.com/in/maher-amara/)
+[![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/meheramara)](https://www.pinterest.com/meheramara)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/maheramara1)](https://twitter.com/maheramara1)
