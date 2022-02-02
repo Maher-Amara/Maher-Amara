@@ -131,5 +131,5 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maher-amara&layout=compact&langs_count=10)
 
 ## 🙌 Find me at :
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maherdev/)](https://www.linkedin.com/in/maherdev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maher-amara/)](https://www.linkedin.com/in/maher-amara/)
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl)](https://twitter.com/maheramara1)
