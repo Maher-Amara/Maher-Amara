@@ -3,11 +3,6 @@
   <a href="https://maherdev.com" class="center" target="_blank"><img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="500"></a>
 </p>
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
 ## About Me
 My name is <strong>maher amara</strong>. I develop Web & Mobile apps as a freelancer.
 I do the work I do because I love it. I like the people I meet. I like the industry. Hopefully we cross paths in the real world someday and we can make the world a better place together.
@@ -16,11 +11,40 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 - 👀 I’m interested in Computer Science.
 - 🛸 I love exploring new tech.
 - 🌱 I’m currently learning Amazon Web Services.
+- 👨‍💻 Read more about my projects at [maherdev.com](https://maherdev.com/project/)
 
 ## How to reach me: 
   - 📫 maheramara32@yahoo.fr
   - [:globe_with_meridians: maherDEV](https://maherdev.com)
-<br/>
+
+## Blog posts
+<a target="_blank" href="https://maherdev.com/project/viewproject/bathijs-presentation-portfolio-multilanguage-website/">
+  <div>
+    <img src="https://maherdev.com/assets/articles/bathijs-presentation-and-portfolio-multilanguage-website/bathijs-website.png" alt="Bathijs presentation and portfolio multilanguage website" width=200 align="left">
+    <h3>Bathijs presentation and portfolio multilanguage website</h3>
+    <p>Dynamic multi-language website, Web Design UI/UX, SEO, and chatBot built with HTML5, CSS3, Bootstrap, PHP, JavaScript, and CodeIgniter4</p>
+  </div>
+</a>
+<br>
+<br>
+<a target="_blank" href="https://maherdev.com/project/viewproject/school-management-system/">
+  <div>
+    <img src="https://maherdev.com/assets/articles/school-management-system/schoolManagementSystem.png" alt="School Management System" width=200 align="left">
+    <h3>School Management System</h3>
+    <p>Java OOP school project at Polytechnic School of Sousse.</p>
+  </div>
+</a>
+<br>
+<br>
+<a target="_blank" href="https://maherdev.com/project/viewproject/eurodepannage/">
+  <div>
+    <img src="https://maherdev.com/assets/articles/eurodepannage/eurodepannage.png" alt="EuroDepannage presentation multilanguage website" width=200 align="left">
+    <h3>EuroDepannage presentation multilanguage website</h3>
+    <p>Dynamic multi-language website, Web Design UI/UX, SEO, and chatBot built with JavaScript, PHP, Bootstrap, CSS3, and HTML5</p>
+  </div>
+</a>
+<br>
+<br>
 
 ## Languages and Tools:
 
