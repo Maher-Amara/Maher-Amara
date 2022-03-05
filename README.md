@@ -3,9 +3,12 @@
   <a href="https://maherdev.com" class="center" target="_blank"><img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="500"></a>
 </p>
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ## About Me
-
 My name is <strong>maher amara</strong>. I develop Web & Mobile apps as a freelancer.
 I do the work I do because I love it. I like the people I meet. I like the industry. Hopefully we cross paths in the real world someday and we can make the world a better place together.
 
