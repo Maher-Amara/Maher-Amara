@@ -16,7 +16,7 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 
 ## How to reach me: 
   - 📫 maheramara32@yahoo.fr
-  - [<img src="https://wolfeborolibrary.org/wp-content/uploads/2020/12/spinning-globe-animated-gif-free-download-2.gif" width="20px"> maherDEV](https://maherdev.com)
+  - [:globe_with_meridians: maherDEV](https://maherdev.com)
 <br/>
 
 ## Languages and Tools:
