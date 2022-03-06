@@ -154,7 +154,7 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 
 ### Github Stats
 
-<p dir="auto"><img src="https://github-readme-stats.vercel.app/api?username=maher-amara&amp;show_icons=true&amp;count_private=true" alt="maher's GitHub stats" style="max-width: 480px;">
+<p><img src="https://github-readme-stats.vercel.app/api?username=maher-amara&amp;show_icons=true&amp;count_private=true" alt="maher's GitHub stats" style="max-width: 480px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maher-amara&amp;layout=compact&amp;langs_count=8" alt="Top Langs" style="max-width: 100%;"></p>
 
 ## 🙌 Find me at :
