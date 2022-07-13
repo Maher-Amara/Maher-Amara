@@ -1,12 +1,13 @@
-<h1>Hi There, I’m Maher <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<p align="center">
-  <a href="https://maherdev.com" class="center" target="_blank"><img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" width="500"></a>
-</p>
 
-## About Me
-  My name is **Maher AMARA**. I support businesses in their **Digital Transformation** by automating and optimizing the way they operate to deliver the **greatest value** to customers at the **lowest costs**.
-  
-  I do the work I do because I love it. I like the people I meet. I like the industry. Hopefully we cross paths in the real world someday and we can make   the world a better place together.
+<h1>Hi There, I’m Maher <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<img src="https://cybersolution.com.my/wp-content/uploads/2021/01/ezgif.com-gif-maker-7.gif" alt="EuroDepannage presentation multilanguage website" width=300 align="right">
+
+
+I am **Maher AMARA**, Software Developer & IT Solutions Consultant at [maherDEV](https://maherdev.com).
+
+I support businesses in their **Digital Transformation** by automating and optimizing the way they operate to deliver the **greatest value** to customers at the **lowest costs**.
+
+I do the work I do because I love it. I like the people I meet. I like the industry. Hopefully we cross paths in the real world someday and we can make   the world a better place together.
 
 
 - 🔭 I’m currently working on building an **E-commerce platform**.
