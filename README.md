@@ -3,7 +3,7 @@
 <img src="https://cybersolution.com.my/wp-content/uploads/2021/01/ezgif.com-gif-maker-7.gif" alt="EuroDepannage presentation multilanguage website" width=350 align="right">
 
 
-<nobr style="white-space:nowrap;">I am <strong>Maher AMARA</strong>,</nobr> Software Developer & IT Solutions Consultant at [maherDEV](https://maherdev.com).
+I am **Maher AMARA**, Software Developer & IT Solutions Consultant at [maherDEV](https://maherdev.com).
 
 I support businesses in their **Digital Transformation** by automating and optimizing the way they operate to deliver the **greatest value** to customers at the **lowest costs**.
 
