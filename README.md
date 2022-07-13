@@ -4,7 +4,7 @@
 </p>
 
 ## About Me
-My name is <strong>maher amara</strong>. I develop Web & Mobile apps as a freelancer.
+My name is <strong>Maher AMARA</strong>. I support businesses in their digital transformation by automating and optimizing the way they operate to deliver the <strong>greatest value</strong> to customers at the <strong>lowest costs</strong>.
 I do the work I do because I love it. I like the people I meet. I like the industry. Hopefully we cross paths in the real world someday and we can make the world a better place together.
 
 - 🔭 I’m currently working on building an E-commerce platform.
