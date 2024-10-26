@@ -1,4 +1,3 @@
-
 <h1>Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img src="https://cybersolution.com.my/wp-content/uploads/2021/01/ezgif.com-gif-maker-7.gif" alt="EuroDepannage presentation multilanguage website" width=350 align="right">
 
@@ -16,11 +15,18 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 - 🌱 I’m currently learning **AWS** cloud computing.
 - 👨‍💻 Read more about my projects at [maherdev.com](https://maherdev.com/project/)
 
-## How to reach me: 
+## How to reach me:
   - 📫 maheramara32@yahoo.fr
   - [:globe_with_meridians: maherDEV](https://maherdev.com)
 
-## Blog posts
+## Or Find me at :
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/maher.amara32)](https://www.facebook.com/maher.amara32)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/maher.amara1/)](https://www.instagram.com/maher.amara1/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maher-amara/)](https://www.linkedin.com/in/maher-amara/)
+[![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/meheramara)](https://www.pinterest.com/meheramara)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/maheramara1)](https://twitter.com/maheramara1)
+
+<!-- ## Blog posts
 <a target="_blank" href="https://maherdev.com/project/viewproject/bathijs-presentation-portfolio-multilanguage-website/">
   <div>
     <img src="https://maherdev.com/assets/articles/bathijs-presentation-and-portfolio-multilanguage-website/bathijs-website.png" alt="Bathijs presentation and portfolio multilanguage website" width=200 align="left">
@@ -48,29 +54,28 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 </a>
 <br>
 <br>
+-->
 
 ## Languages and Tools:
+[![wakatime](https://wakatime.com/badge/user/c2cf9d60-8841-4b05-9386-35e6ba8ab353.svg)](https://wakatime.com/@c2cf9d60-8841-4b05-9386-35e6ba8ab353)
+
 
 <p>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="android" width="26px" src="https://user-images.githubusercontent.com/58654884/116001382-1a7a0000-a5ec-11eb-8a27-7c3e19169f5c.png" />
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/38113942/115968039-982b0680-a52d-11eb-8dfc-69753ce0db90.png" />
+  <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right: 16px;" />
+  <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 16px;" />
+  <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 16px;" />
+  <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 16px;" />
+  <img align="left" alt="android" width="32px" src="https://user-images.githubusercontent.com/58654884/116001382-1a7a0000-a5ec-11eb-8a27-7c3e19169f5c.png" style="margin-right: 16px;" />
+  <img align="left" alt="Python" width="32px" src="https://user-images.githubusercontent.com/38113942/115968039-982b0680-a52d-11eb-8dfc-69753ce0db90.png" style="margin-right: 16px;" />
+  <img align="left" alt="PHP" width="32px" src="https://user-images.githubusercontent.com/38113942/115968061-c1e42d80-a52d-11eb-9331-e0f4e4f510ed.png" style="margin-right: 16px;" />
+  <img align="left" alt="JAVA" width="32px" src="https://user-images.githubusercontent.com/38113942/115968082-e50edd00-a52d-11eb-9b81-4850d6ad1c75.png" style="margin-right: 16px;" />
+  <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="margin-right: 16px;" />
+  <img align="left" alt="MSL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="margin-right: 16px;" />
+  <img align="left" alt="Linux" width="32px" src="https://user-images.githubusercontent.com/38113942/115967881-fe635980-a52c-11eb-8d64-4e8c87e93e17.png" style="margin-right: 16px;" />
+  <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right: 16px;" />
 </p>
 <br>
 <br>
-<p>
-<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/38113942/115968061-c1e42d80-a52d-11eb-9331-e0f4e4f510ed.png" />
-<img align="left" alt="JAVA" width="26px" src="https://user-images.githubusercontent.com/38113942/115968082-e50edd00-a52d-11eb-9b81-4850d6ad1c75.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MSL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/38113942/115967881-fe635980-a52c-11eb-8d64-4e8c87e93e17.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</p>
-<br>
-
 
 <details>
   <summary>
@@ -159,10 +164,3 @@ I do the work I do because I love it. I like the people I meet. I like the indus
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=maher-amara&amp;show_icons=true&amp;count_private=true" alt="maher's GitHub stats" style="max-width: 480px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maher-amara&amp;layout=compact&amp;langs_count=8" alt="Top Langs" style="max-width: 100%;"></p>
-
-## 🙌 Find me at :
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/maher.amara32)](https://www.facebook.com/maher.amara32)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/maher.amara1/)](https://www.instagram.com/maher.amara1/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maher-amara/)](https://www.linkedin.com/in/maher-amara/)
-[![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white&link=https://www.pinterest.com/meheramara)](https://www.pinterest.com/meheramara)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/maheramara1)](https://twitter.com/maheramara1)
