@@ -19,7 +19,7 @@ I do the work I do because I love it. I like the people I meet. I like the indus
   - 📫 maheramara32@yahoo.fr
   - [:globe_with_meridians: maherDEV](https://maherdev.com)
 
-## Or Find me at :
+## Or Find me at:
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/maher.amara32)](https://www.facebook.com/maher.amara32)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/maher.amara1/)](https://www.instagram.com/maher.amara1/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maher-amara/)](https://www.linkedin.com/in/maher-amara/)
